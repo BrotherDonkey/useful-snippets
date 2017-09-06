@@ -1,7 +1,6 @@
 {
   "name": "node-exp",
   "version": "1.0.0",
-  "description": "",
   "main": "command-node.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "figlet": "^1.2.0"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
