@@ -1,4 +1,4 @@
-// works only in the browswer
+// works only in the browswer, via eloquentjavascript
 
 function requestAuthor(type) {
   var req = new XMLHttpRequest();

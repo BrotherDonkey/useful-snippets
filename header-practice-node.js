@@ -1,3 +1,5 @@
+// via eloquentjavascript
+
 var http = require("http");
 
 function readStreamAsString(stream, callback) {
