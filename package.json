@@ -8,6 +8,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ecstatic": "^3.0.0",
     "figlet": "^1.2.0"
   },
   "devDependencies": {},
